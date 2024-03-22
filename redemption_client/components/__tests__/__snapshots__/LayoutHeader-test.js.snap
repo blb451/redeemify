@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LayoutHeader component renders snapshot correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#fff",
+      },
+      {
+        "alignContent": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "padding": 15,
+        "paddingTop": 50,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#000",
+        },
+        {
+          "fontSize": 20,
+        },
+      ]
+    }
+  >
+    Test Title
+  </Text>
+  <View
+    style={
+      [
+        {
+          "backgroundColor": "#fff",
+        },
+        {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#000",
+          },
+          {
+            "fontSize": 16,
+            "fontWeight": "bold",
+          },
+        ]
+      }
+    >
+      Available Points: 
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "color": "#000",
+          },
+          {
+            "fontSize": 16,
+          },
+        ]
+      }
+    >
+      100
+    </Text>
+  </View>
+</View>
+`;
