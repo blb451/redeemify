@@ -59,7 +59,7 @@ export default function Login() {
 
 const styles = StyleSheet.create({
   button: {
-    backgroundColor: 'lightblue',
+    backgroundColor: '#00b2ca',
     padding: 10,
     margin: 5,
     borderRadius: 5,
