@@ -2,7 +2,6 @@ import { FlatList, SafeAreaView, StyleSheet } from 'react-native';
 
 import { View, Text } from '@/components/Themed';
 
-import type { ReactNode } from 'react';
 import type { Reward } from '@/types';
 
 interface RewardListProps {

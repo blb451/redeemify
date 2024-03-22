@@ -72,10 +72,6 @@
    ```
 4. Follow the instructions provided by Expo to run the app in either a web view, Expo Go app, or Android SDK.
 
-   ```bash
-   npm run start
-   ```
-
    ```
    	› Metro waiting on exp://192.168.1.88:8081
    	› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
@@ -107,7 +103,7 @@
 #### Create/Find User
 
 ```
-GET /v1//users/<USER NAME>
+GET /v1/users/<USER NAME>
 ```
 
 Example Response
